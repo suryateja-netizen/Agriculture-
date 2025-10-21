@@ -1,0 +1,5 @@
+{
+  "name": "Agricultural Login System",
+  "description": "A comprehensive login system for an agricultural platform with nine distinct user roles, each with a tailored dashboard interface. The application showcases a role-based authentication flow and UI/UX design.",
+  "requestFramePermissions": []
+}
